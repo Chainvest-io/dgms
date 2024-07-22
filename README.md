@@ -1,2 +1,2 @@
-# dgms
+# Technical Diagrams
 For diagrams
